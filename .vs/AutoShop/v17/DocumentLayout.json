@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Uni\\AutoShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8387A3CD-1978-4C11-A24F-2A62964D7C4C}|AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj|e:\\uni\\autoshop\\autoshop.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8387A3CD-1978-4C11-A24F-2A62964D7C4C}|AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj|solutionrelative:autoshop.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}|AutoShop.Application\\AutoShop.Application.csproj|e:\\uni\\autoshop\\autoshop.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}|AutoShop.Application\\AutoShop.Application.csproj|solutionrelative:autoshop.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E819191F-1923-4C31-A17D-B581826044BF}|AutoShop.Persistance\\AutoShop.Persistance.csproj|e:\\uni\\autoshop\\autoshop.persistance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E819191F-1923-4C31-A17D-B581826044BF}|AutoShop.Persistance\\AutoShop.Persistance.csproj|solutionrelative:autoshop.persistance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}|AutoShop.Logic\\AutoShop.Logic.csproj|e:\\uni\\autoshop\\autoshop.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}|AutoShop.Logic\\AutoShop.Logic.csproj|solutionrelative:autoshop.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "AutoShop.Infrastructure\\Class1.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "AutoShop.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:25:17.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "AutoShop.Application\\Class1.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Application\\Class1.cs",
+              "RelativeToolTip": "AutoShop.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:24:06.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Persistance\\Class1.cs",
+              "RelativeDocumentMoniker": "AutoShop.Persistance\\Class1.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Persistance\\Class1.cs",
+              "RelativeToolTip": "AutoShop.Persistance\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:22:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Logic\\Class1.cs",
+              "RelativeDocumentMoniker": "AutoShop.Logic\\Class1.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Logic\\Class1.cs",
+              "RelativeToolTip": "AutoShop.Logic\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:20:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
