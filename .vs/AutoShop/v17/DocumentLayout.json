@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "E:\\Uni\\AutoShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8387A3CD-1978-4C11-A24F-2A62964D7C4C}|AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj|e:\\uni\\autoshop\\autoshop.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8387A3CD-1978-4C11-A24F-2A62964D7C4C}|AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj|solutionrelative:autoshop.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\pointgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\pointgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\cartgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\cartgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\entities\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\entities\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|e:\\uni\\autoshop\\autoshop.domain\\autoshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F5A966C-589E-44A4-8103-D58811AC8A9D}|AutoShop.Domain\\AutoShop.Domain.csproj|solutionrelative:autoshop.domain\\autoshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C862437E-C526-4759-AC18-F82D99EE4746}|AutoShop.API\\AutoShop.API.csproj|e:\\uni\\autoshop\\autoshop.api\\autoshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C862437E-C526-4759-AC18-F82D99EE4746}|AutoShop.API\\AutoShop.API.csproj|solutionrelative:autoshop.api\\autoshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387A3CD-1978-4C11-A24F-2A62964D7C4C}|AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj|e:\\uni\\autoshop\\autoshop.infrastructure\\autoshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8387A3CD-1978-4C11-A24F-2A62964D7C4C}|AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj|solutionrelative:autoshop.infrastructure\\autoshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}|AutoShop.Application\\AutoShop.Application.csproj|e:\\uni\\autoshop\\autoshop.application\\autoshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}|AutoShop.Application\\AutoShop.Application.csproj|solutionrelative:autoshop.application\\autoshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}|AutoShop.Application\\AutoShop.Application.csproj|e:\\uni\\autoshop\\autoshop.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}|AutoShop.Application\\AutoShop.Application.csproj|solutionrelative:autoshop.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E819191F-1923-4C31-A17D-B581826044BF}|AutoShop.Persistance\\AutoShop.Persistance.csproj|e:\\uni\\autoshop\\autoshop.persistance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E819191F-1923-4C31-A17D-B581826044BF}|AutoShop.Persistance\\AutoShop.Persistance.csproj|solutionrelative:autoshop.persistance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}|AutoShop.Logic\\AutoShop.Logic.csproj|e:\\uni\\autoshop\\autoshop.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}|AutoShop.Logic\\AutoShop.Logic.csproj|solutionrelative:autoshop.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +74,210 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "AutoShop.Infrastructure\\Class1.cs",
-              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "AutoShop.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "PointGoods.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\PointGoods.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\PointGoods.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\PointGoods.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\PointGoods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:25:17.569Z",
+              "WhenOpened": "2024-07-13T19:09:55.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "CartGoods.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\CartGoods.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\CartGoods.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\CartGoods.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\CartGoods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:09:32.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\Cart.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:33:05.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\Review.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:21:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Vacancy.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\Vacancy.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Vacancy.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\Vacancy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:20:41.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromoCode.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\PromoCode.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\PromoCode.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\PromoCode.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\PromoCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:20:07.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\Category.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:19:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\Supplier.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Supplier.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:18:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\Manufacturer.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Manufacturer.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\Manufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:18:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PickupPoint.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\PickupPoint.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\PickupPoint.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\PickupPoint.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\PickupPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:17:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Good.cs",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Good.cs",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\Entities\\Good.cs",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\Entities\\Good.cs",
+              "RelativeToolTip": "AutoShop.Domain\\Entities\\Good.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:17:33.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoShop.Domain",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Domain\\AutoShop.Domain.csproj",
+              "RelativeDocumentMoniker": "AutoShop.Domain\\AutoShop.Domain.csproj",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Domain\\AutoShop.Domain.csproj",
+              "RelativeToolTip": "AutoShop.Domain\\AutoShop.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T18:14:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoShop.API",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.API\\AutoShop.API.csproj",
+              "RelativeDocumentMoniker": "AutoShop.API\\AutoShop.API.csproj",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.API\\AutoShop.API.csproj",
+              "RelativeToolTip": "AutoShop.API\\AutoShop.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T18:10:15.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoShop.Infrastructure",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj",
+              "RelativeToolTip": "AutoShop.Infrastructure\\AutoShop.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T18:08:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoShop.Application",
+              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Application\\AutoShop.Application.csproj",
+              "RelativeDocumentMoniker": "AutoShop.Application\\AutoShop.Application.csproj",
+              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Application\\AutoShop.Application.csproj",
+              "RelativeToolTip": "AutoShop.Application\\AutoShop.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T18:08:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Application\\Class1.cs",
               "RelativeDocumentMoniker": "AutoShop.Application\\Class1.cs",
@@ -53,36 +287,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T14:24:06.649Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Persistance\\Class1.cs",
-              "RelativeDocumentMoniker": "AutoShop.Persistance\\Class1.cs",
-              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Persistance\\Class1.cs",
-              "RelativeToolTip": "AutoShop.Persistance\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:22:50.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Uni\\AutoShop\\AutoShop.Logic\\Class1.cs",
-              "RelativeDocumentMoniker": "AutoShop.Logic\\Class1.cs",
-              "ToolTip": "E:\\Uni\\AutoShop\\AutoShop.Logic\\Class1.cs",
-              "RelativeToolTip": "AutoShop.Logic\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:20:25.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

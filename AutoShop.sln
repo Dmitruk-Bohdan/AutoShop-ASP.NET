@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoShop.Logic", "AutoShop.Logic\AutoShop.Logic.csproj", "{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoShop.API", "AutoShop.API\AutoShop.API.csproj", "{C862437E-C526-4759-AC18-F82D99EE4746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoShop.API", "AutoShop.API\AutoShop.API.csproj", "{C862437E-C526-4759-AC18-F82D99EE4746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoShop.Application", "AutoShop.Application\AutoShop.Application.csproj", "{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoShop.Persistance", "AutoShop.Persistance\AutoShop.Persistance.csproj", "{E819191F-1923-4C31-A17D-B581826044BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoShop.Infrastructure", "AutoShop.Infrastructure\AutoShop.Infrastructure.csproj", "{8387A3CD-1978-4C11-A24F-2A62964D7C4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoShop.Application", "AutoShop.Application\AutoShop.Application.csproj", "{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoShop.Infrastructure", "AutoShop.Infrastructure\AutoShop.Infrastructure.csproj", "{8387A3CD-1978-4C11-A24F-2A62964D7C4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoShop.Domain", "AutoShop.Domain\AutoShop.Domain.csproj", "{1F5A966C-589E-44A4-8103-D58811AC8A9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,18 +17,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7C0281B-1CFA-4342-8532-9FB99CFB60B3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C862437E-C526-4759-AC18-F82D99EE4746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C862437E-C526-4759-AC18-F82D99EE4746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C862437E-C526-4759-AC18-F82D99EE4746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C862437E-C526-4759-AC18-F82D99EE4746}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E819191F-1923-4C31-A17D-B581826044BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E819191F-1923-4C31-A17D-B581826044BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E819191F-1923-4C31-A17D-B581826044BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E819191F-1923-4C31-A17D-B581826044BF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AAE9E1C-BF3B-418A-A5D9-15D941547C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +29,10 @@ Global
 		{8387A3CD-1978-4C11-A24F-2A62964D7C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8387A3CD-1978-4C11-A24F-2A62964D7C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8387A3CD-1978-4C11-A24F-2A62964D7C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5A966C-589E-44A4-8103-D58811AC8A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5A966C-589E-44A4-8103-D58811AC8A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5A966C-589E-44A4-8103-D58811AC8A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5A966C-589E-44A4-8103-D58811AC8A9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
